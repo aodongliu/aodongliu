@@ -32,7 +32,7 @@
 ### 技术栈
 
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-192133?style=flat-square&logo=c++&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-192133?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![macOS](https://img.shields.io/badge/-MacOS-192133?style=flat-square&logo=macos&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-192133?style=flat-square&logo=Linux&logoColor=white)
 ![Vim](https://img.shields.io/badge/-Vim-192133?style=flat-square&logo=vim&logoColor=white)
