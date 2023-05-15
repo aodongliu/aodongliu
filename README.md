@@ -41,30 +41,22 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 #### Contact
-<br>
-<div align='left'>
-
-<ul>
-
 
 <a href="https://www.linkedin.com/in/aodong-liu-00a981156" target="_blank">
 <img src="https://img.shields.io/badge/Linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
-
-
-
 <a href="https://ibb.co/thrhy8y" target="_blank">
 <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" t=wechat style="margin-bottom: 5px;" />
 </a>
 
-	
-
-
 <a href="mailto:al777@uw.edu" target="_blank">
 <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
-	
+
+<a href="https://www.instagram.com/adaaaaaaaaam777" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" t=instagram style="margin-bottom: 5px;" />
+</a>
 </ul>
 </div>
 
