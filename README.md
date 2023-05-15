@@ -9,7 +9,7 @@
 
 
 <!-- <div align="center">                                                                               -->
-<!--     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=PegasusWang&theme=dark" />   -->
+<!--     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=aodongliu&theme=dark" />   -->
 <!-- </div>                                                                                             -->
 
 <!-- **Skills:**                                                                                        -->
@@ -26,7 +26,7 @@
 
 
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=pegasuswang&theme=dracula" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=aodongliu&theme=dracula" />
 </div>
 
 ### Skills
@@ -39,3 +39,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
