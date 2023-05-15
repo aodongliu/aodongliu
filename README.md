@@ -52,16 +52,12 @@
 </a>
 </li>
 
-<br>
-
 
 <li>
 <a href="https://ibb.co/thrhy8y" target="_blank">
 <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" t=wechat style="margin-bottom: 5px;" />
 </a>
 </li>
-
-<br>
 	
 
 <li>
