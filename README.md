@@ -46,25 +46,24 @@
 
 <ul>
 
-<li>
+
 <a href="https://www.linkedin.com/in/aodong-liu-00a981156" target="_blank">
 <img src="https://img.shields.io/badge/Linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-</li>
 
 
-<li>
+
+
 <a href="https://ibb.co/thrhy8y" target="_blank">
 <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" t=wechat style="margin-bottom: 5px;" />
 </a>
-</li>
+
 	
 
-<li>
+
 <a href="mailto:al777@uw.edu" target="_blank">
 <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
-</li>
 	
 </ul>
 </div>
