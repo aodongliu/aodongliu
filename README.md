@@ -37,5 +37,5 @@
 ![Linux](https://img.shields.io/badge/-Linux-192133?style=flat-square&logo=Linux&logoColor=white)
 ![Vim](https://img.shields.io/badge/-Vim-192133?style=flat-square&logo=vim&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-192133?style=flat-square&logo=git&logoColor=white)
-![Iterm2](https://img.shields.io/badge/-Iterm2-192133?style=flat-square&logo=Iterm2&logoColor=white)
+![Fortran](https://img.shields.io/badge/-Iterm2-192133?style=flat-square&logo=fortran&logoColor=white)
 ![Alfred](https://img.shields.io/badge/-Alfred-192133?style=flat-square&logo=alfred&logoColor=white)
