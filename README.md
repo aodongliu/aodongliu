@@ -29,7 +29,7 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=pegasuswang&theme=dracula" />
 </div>
 
-### 技术栈
+### Skills
 
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-192133?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -38,5 +38,5 @@
 ![Vim](https://img.shields.io/badge/-Vim-192133?style=flat-square&logo=vim&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-192133?style=flat-square&logo=git&logoColor=white)
 ![Fortran](https://img.shields.io/badge/-Fortran-192133?style=flat-square&logo=fortran&logoColor=white)
-![Latex](https://img.shields.io/badge/-Fortran-192133?style=flat-square&logo=latex&logoColor=white)
-
+![Latex](https://img.shields.io/badge/-Latex-192133?style=flat-square&logo=latex&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
