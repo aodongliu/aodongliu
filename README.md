@@ -31,12 +31,11 @@
 
 ### Skills
 
-![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-192133?style=flat-square&logo=c%2B%2B&logoColor=white)
-![macOS](https://img.shields.io/badge/-MacOS-192133?style=flat-square&logo=macos&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-192133?style=flat-square&logo=Linux&logoColor=white)
-![Vim](https://img.shields.io/badge/-Vim-192133?style=flat-square&logo=vim&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-192133?style=flat-square&logo=git&logoColor=white)
-![Fortran](https://img.shields.io/badge/-Fortran-192133?style=flat-square&logo=fortran&logoColor=white)
-![Latex](https://img.shields.io/badge/-Latex-192133?style=flat-square&logo=latex&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
