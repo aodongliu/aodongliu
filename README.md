@@ -25,9 +25,6 @@
 <!-- <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/alfred.svg"></code> -->
 
 
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=aodongliu&theme=dracula" />
-</div>
 
 ### Skills
 
