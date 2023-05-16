@@ -1,6 +1,7 @@
 <div align="center">
 <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
+<br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aodongliu&include_all_commits=true&count_private=true&include_orgs=true&show_icons=true&theme=dark" />
 </a>
@@ -8,7 +9,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aodongliu&include_all_commits=true&count_private=true&include_orgs=true&show_icons=true&theme=dark&hide_progress=true&langs_count=12" />
 </a>
-
+<br />
   
 <br />
 I'm a 3-rd year chemistry graduate student at University of Wasshington. 
@@ -55,7 +56,7 @@ My interests are non-adiabatic excited-states electron dynamics and quantum comp
 ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-#### Contact
+### Connect with me
 
 <a href="https://www.linkedin.com/in/aodong-liu-00a981156" target="_blank">
 <img src="https://img.shields.io/badge/Linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
