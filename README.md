@@ -11,10 +11,16 @@
 
   
 <br />
-I'm a 3-rd year chemistry graduate student at University of Wasshington. I study quantum chemistry by developing novel methods/softwares to simulate chemically interesting systems. My interests are non-adiabatic excited-states electron dynamics and quantum computing.
+I'm a 3-rd year chemistry graduate student at University of Wasshington. 
 <br />
   
-
+<br />
+I study quantum chemistry by developing novel methods/softwares to simulate chemically interesting systems.
+<br />
+  
+<br />
+My interests are non-adiabatic excited-states electron dynamics and quantum computing.
+<br />
 
 
 <!-- <div align="center">                                                                               -->
