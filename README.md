@@ -48,7 +48,7 @@ My interests are non-adiabatic excited-states electron dynamics and quantum comp
 </a>
   
 <a href="https://urania.chem.washington.edu/chronusq/chronusq_public" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/-Chronus%20Quantum-702963.svg?style=for-the-badge&logo=ChronusQuantum&logoColor=white" style="margin-bottom: 5px;" height="42"/>
+<img src="https://custom-icon-badges.demolab.com/badge/-Chronus%20Quantum-702963.svg?style=for-the-badge&logo=cqsvg&logoColor=white" style="margin-bottom: 5px;" height="42"/>
 </a>
 
   
