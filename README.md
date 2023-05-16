@@ -12,11 +12,11 @@
 <br />
   
 <br />
-I'm a 3-rd year chemistry graduate student at University of Wasshington. 
+I'm a third-year chemistry graduate student at University of Wasshington. 
 <br />
   
 <br />
-I study quantum chemistry by developing novel methods/softwares to simulate chemically interesting systems.
+I study quantum chemistry by developing novel methods/software to simulate chemically interesting systems.
 <br />
   
 <br />
