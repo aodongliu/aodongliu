@@ -40,10 +40,17 @@ My interests are non-adiabatic excited-states electron dynamics and quantum comp
 <!-- <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/macos.svg"></code>  -->
 <!-- <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/alfred.svg"></code> -->
 
+<img src="https://img.shields.io/badge/build-passing-%20brightgreen" height="50" />
   
 ### Quantum Chemistry Software I develop in:
-![Gaussian](https://custom-icon-badges.demolab.com/badge/-Gaussian%20Development%20Version-800020.svg?style=for-the-badge&logo=gaussian&logoColor=white)
-![ChronusQuantum](https://custom-icon-badges.demolab.com/badge/-Chronus%20Quantum-%13843226.svg?style=for-the-badge&logo=ChronusQuantum&logoColor=white)
+<a href="https://gaussian.com" target="_blank">
+<img src="https://custom-icon-badges.demolab.com/badge/-Gaussian%20Development%20Version-800020.svg?style=for-the-badge&logo=gaussian&logoColor=white" style="margin-bottom: 5px;" height="20"/>
+</a>
+  
+<a href="https://urania.chem.washington.edu/chronusq/chronusq_public" target="_blank">
+<img src="https://custom-icon-badges.demolab.com/badge/-Chronus%20Quantum-702963.svg?style=for-the-badge&logo=ChronusQuantum&logoColor=white" style="margin-bottom: 5px;" height="30"/>
+</a>
+
   
   
 ### Skills:
