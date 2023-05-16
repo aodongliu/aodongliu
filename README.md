@@ -42,8 +42,8 @@ My interests are non-adiabatic excited-states electron dynamics and quantum comp
 
   
 ### Quantum Chemistry Software I develop in:
-![Gaussian](https://custom-icon-badges.demolab.com/badge/Gaussian%2Development%20Version-red.svg?style=for-the-badge&logo=gaussian&logoColor=black)
-
+![Gaussian](https://custom-icon-badges.demolab.com/badge/-Gaussian%20Development%20Version-red.svg?style=for-the-badge&logo=gaussian&logoColor=black)
+![ChronusQuantum](https://custom-icon-badges.demolab.com/badge/-Chronus%20Quantum-red.svg?style=for-the-badge&logo=ChronusQuantum&logoColor=white)
   
   
 ### Skills:
