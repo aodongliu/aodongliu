@@ -22,7 +22,8 @@ I study quantum chemistry by developing novel methods/software to simulate chemi
 <br />
 My interests are non-adiabatic excited-states electron dynamics and quantum computing.
 <br />
-
+<br />
+<br />
 
 <!-- <div align="center">                                                                               -->
 <!--     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=aodongliu&theme=dark" />   -->
@@ -43,11 +44,11 @@ My interests are non-adiabatic excited-states electron dynamics and quantum comp
   
 ### Quantum Chemistry Software I develop in:
 <a href="https://gaussian.com" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/-Gaussian%20Development%20Version-800020.svg?style=for-the-badge&logo=gaussian&logoColor=white" style="margin-bottom: 5px;" height="50"/>
+<img src="https://custom-icon-badges.demolab.com/badge/-Gaussian%20Development%20Version-800020.svg?style=for-the-badge&logo=gaussian&logoColor=white" style="margin-bottom: 5px;" height="42"/>
 </a>
   
 <a href="https://urania.chem.washington.edu/chronusq/chronusq_public" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/-Chronus%20Quantum-702963.svg?style=for-the-badge&logo=ChronusQuantum&logoColor=white" style="margin-bottom: 5px;" height="50"/>
+<img src="https://custom-icon-badges.demolab.com/badge/-Chronus%20Quantum-702963.svg?style=for-the-badge&logo=ChronusQuantum&logoColor=white" style="margin-bottom: 5px;" height="42"/>
 </a>
 
   
