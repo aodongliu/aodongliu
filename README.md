@@ -6,8 +6,8 @@
   <img align="center" src="https://github-readme-stats-aodongliu.vercel.app/api?username=aodongliu&include_all_commits=true&count_private=true&include_orgs=true&show_icons=true&theme=dark" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats-aodongliu.vercel.app/api/top-langs/?username=aodongliu&include_all_commits=true&count_private=true&include_orgs=true&show_icons=true&theme=dark&langs_count=12" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-aodongliu.vercel.app/api/top-langs/?username=aodongliu&include_all_commits=true&count_private=true&include_orgs=true&show_icons=true&hide_progress=true&theme=dark&langs_count=12" />
 </a>
 <br />
   
