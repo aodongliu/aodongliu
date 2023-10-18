@@ -12,7 +12,7 @@
 <br />
   
 <br />
-I'm a third-year chemistry graduate student at University of Wasshington. 
+I'm a fourth-year chemistry graduate student at University of Wasshington. 
 <br />
   
 <br />
