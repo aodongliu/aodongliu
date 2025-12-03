@@ -12,15 +12,15 @@
 <br />
   
 <br />
-I'm a fourth-year chemistry graduate student at University of Wasshington. 
+I'm a computational chemistry PhD candidate at University of Wasshington. 
 <br />
   
 <br />
-I study quantum chemistry by developing novel methods/software to simulate chemically interesting systems.
+I study quantum chemistry by developing novel methods/softwares to simulate chemically interesting systems.
 <br />
   
 <br />
-My interests are non-adiabatic excited-states electron dynamics and quantum computing.
+My research interests are scalable, high‑performance algorithms and non-adiabatic excited-states electron dynamics.
 <br />
 <br />
 <br />
