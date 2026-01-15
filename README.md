@@ -77,7 +77,7 @@ My research interests are scalable, high‑performance algorithms and non-adiaba
 <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" t=wechat style="margin-bottom: 5px;" />
 </a>
 
-<a href="mailto:al777@uw.edu" target="_blank">
+<a href="mailto:aodongliu777@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 
