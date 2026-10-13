@@ -1,90 +1,57 @@
 <div align="center">
-<h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
-<br />
+## Hi, I'm Aodong 👋
+
+I'm a Postdoctoral Scholar in the [Li Group](https://uwligroup.org) at the University of Washington,<br>
+where I completed my Ph.D. in Theoretical Chemistry in June 2026.
+
+My research focuses on incorporating nuclear quantum effects into electronic structure theory<br>
+and on developing scalable algorithms for large-scale quantum dynamics simulations.
+
+I develop scientific software in Fortran and C++, including work on **Gaussian** and **Chronus Quantum**:<br>
+leading development of the nuclear–electronic orbital (NEO) module in Gaussian 25<br>
+developing distributed algorithms with MPI and OpenMP,<br>
+and accelerating heavy computations on GPUs with CUDA.
+
+<br>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-aodongliu.vercel.app/api?username=aodongliu&include_all_commits=true&count_private=true&include_orgs=true&show_icons=true&theme=dark" />
 </a>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-aodongliu.vercel.app/api/top-langs/?username=aodongliu&include_all_commits=true&count_private=true&include_orgs=true&show_icons=true&hide_progress=true&theme=dark&langs_count=12" />
 </a>
-<br />
-  
-<br />
-I'm a computational chemistry PhD candidate at University of Wasshington. 
-<br />
-  
-<br />
-I study quantum chemistry by developing novel methods/softwares to simulate chemically interesting systems.
-<br />
-  
-<br />
-My research interests are scalable, high‑performance algorithms and non-adiabatic excited-states electron dynamics.
-<br />
-<br />
-<br />
 
-<!-- <div align="center">                                                                               -->
-<!--     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=aodongliu&theme=dark" />   -->
-<!-- </div>                                                                                             -->
+### Scientific software I develop
 
-<!-- **Skills:**                                                                                        -->
+<a href="https://gaussian.com"><img src="https://custom-icon-badges.demolab.com/badge/-Gaussian%2025-800020.svg?style=for-the-badge&logoColor=white" height="34"/></a>
+<a href="https://github.com/xsligroup/chronusq_public"><img src="https://custom-icon-badges.demolab.com/badge/-Chronus%20Quantum-702963.svg?style=for-the-badge&logoColor=white" height="34"/></a>
 
-<!-- <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg"></code> -->
-<!-- <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/go.svg"></code>     -->
-<!-- <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg"></code>  -->
-<!-- <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/redis.svg"></code>  -->
-<!-- <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg"></code>    -->
-<!-- <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linux.svg"></code>  -->
-<!-- <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vim.svg"></code>    -->
-<!-- <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/macos.svg"></code>  -->
-<!-- <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/alfred.svg"></code> -->
+### Skills
 
-  
-### Quantum Chemistry Software I develop in:
-<a href="https://gaussian.com" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/-Gaussian%20Development%20Version-800020.svg?style=for-the-badge&logo=gaussian&logoColor=white" style="margin-bottom: 5px;" height="42"/>
-</a>
-  
-<a href="https://urania.chem.washington.edu/chronusq/chronusq_public" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/-Chronus%20Quantum-702963.svg?style=for-the-badge&logo=ChronusQuantum&logoColor=white" style="margin-bottom: 5px;" height="42"/>
-</a>
-
-  
-  
-### Skills:
-
+**Languages**<br>
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Shell Script](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**HPC & tools**<br>
+![MPI](https://img.shields.io/badge/MPI-1F4E79?style=for-the-badge)
+![OpenMP](https://img.shields.io/badge/OpenMP-2E7D32?style=for-the-badge)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### Connect with me~ 
+### Connect
 
-<a href="https://www.linkedin.com/in/aodong-liu-00a981156" target="_blank">
-<img src="https://img.shields.io/badge/Linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
+<a href="https://aodongliu.github.io"><img src="https://img.shields.io/badge/Website-0F7F87?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://aodongliu.github.io/files/aodongliu_cv.pdf"><img src="https://img.shields.io/badge/CV%20(PDF)-30363D?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
+<a href="mailto:aodongliu77@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/aodongliu/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://scholar.google.com/citations?user=P6BLL58AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
+<a href="https://orcid.org/0000-0003-2287-2216"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
 
-<a href="https://ibb.co/thrhy8y" target="_blank">
-<img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" t=wechat style="margin-bottom: 5px;" />
-</a>
-
-<a href="mailto:aodongliu777@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.instagram.com/adaaaaaaaaam777" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" t=instagram style="margin-bottom: 5px;" />
-</a>
-</ul>
 </div>
-
-
