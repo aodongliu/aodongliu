@@ -19,7 +19,7 @@ and accelerating heavy computations on GPUs with CUDA.
   <img align="center" src="https://github-readme-stats-aodongliu.vercel.app/api?username=aodongliu&include_all_commits=true&count_private=true&include_orgs=true&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-aodongliu.vercel.app/api/top-langs/?username=aodongliu&include_all_commits=true&count_private=true&include_orgs=true&show_icons=true&hide_progress=true&theme=dark&langs_count=12" />
+  <img align="center" src="https://github-readme-stats-aodongliu.vercel.app/api/top-langs/?username=aodongliu&include_all_commits=true&count_private=true&include_orgs=true&show_icons=true&hide_progress=true&theme=dark&langs_count=10&hide=jupyter%20notebook,html,tcl,roff,rich%20text%20format,makefile,glsl,mathematica,tex" />
 </a>
 
 ### Scientific software I develop
