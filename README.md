@@ -9,7 +9,7 @@ My research focuses on incorporating nuclear quantum effects into electronic str
 and on developing scalable algorithms for large-scale quantum dynamics simulations.
 
 I develop scientific software in Fortran and C++, including work on **Gaussian** and **Chronus Quantum**:<br>
-leading development of the nuclear–electronic orbital (NEO) module in Gaussian 25<br>
+leading development of the nuclear–electronic orbital (NEO) module in Gaussian 25,<br>
 developing distributed algorithms with MPI and OpenMP,<br>
 and accelerating heavy computations on GPUs with CUDA.
 
